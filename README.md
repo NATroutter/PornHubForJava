@@ -4,7 +4,8 @@
 
 ![GitHub](https://img.shields.io/github/license/NATroutter/PornHubForJava?style=for-the-badge)
 ![Jenkins](https://img.shields.io/jenkins/build?jobUrl=https%3A%2F%2Fhub.nat.gg%2Fjenkins%2Fjob%2FPornHubForJava%2F&style=for-the-badge)
-![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/fi.natroutter/PornHubForJava?server=https%3A%2F%2Fhub.nat.gg%2Fnexus%2F&style=for-the-badge&label=Version)
+![Sonatype Nexus (Releases)](https://img.shields.io/nexus/r/fi.natroutter/PornHubForJava?label=Version&server=https%3A%2F%2Fhub.nat.gg%2Fnexus&style=for-the-badge)
+
 
 Simple api that scrapes data from pornhub.com
  </div>
